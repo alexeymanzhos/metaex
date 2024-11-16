@@ -93,4 +93,4 @@ nmap -sX <ip> - Xmas сканирование. Устанавливаются FI
 nmap -sU <ip> - Различные типы UDP сканирования. Большой проблемой при UDP сканировании является его медленная скорость работы.
 ```
 
-![alt text](https://github.com/alexeymanzhos/metaex/blob/main/img/udp.png)
+![alt text](https://github.com/alexeymanzhos/metaex/blob/main/img/udp.jpg)
